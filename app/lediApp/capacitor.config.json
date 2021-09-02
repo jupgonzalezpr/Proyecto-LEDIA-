@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lediApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
