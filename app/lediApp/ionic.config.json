@@ -1,0 +1,7 @@
+{
+  "name": "lediApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
