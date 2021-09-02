@@ -54,7 +54,7 @@
           "id": "4c6d67cb-7e9d-4df4-8564-226e50c19ef6",
           "type": "basic.input",
           "data": {
-            "name": "Sensor",
+            "name": "Entrada",
             "pins": [
               {
                 "index": "0",
